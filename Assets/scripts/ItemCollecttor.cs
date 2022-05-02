@@ -19,6 +19,7 @@ public class ItemCollecttor : MonoBehaviour
           cherriesText.text="Cherries : " +cherries;
           
            //Debug.Log("Cherries : " +cherries) ; 
+           // ici une modification 
 
        }
   }
