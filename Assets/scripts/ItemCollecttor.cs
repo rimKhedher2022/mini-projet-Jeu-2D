@@ -20,6 +20,7 @@ public class ItemCollecttor : MonoBehaviour
           
            //Debug.Log("Cherries : " +cherries) ; 
            // ici une modification 
+           // nouvelle modif
 
        }
   }
